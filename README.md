@@ -1,6 +1,7 @@
 # Tietokantojen perusteet (kesä 2015)
 
 Avoin yliopisto — A581328 (5 op)
+
 [Opetusohjelma](http://www.avoinyliopisto.fi/fi-FI/Opetustarjonta/StudyUnit.aspx?StyleSuffix=UrlQuery&StudyUnitId=ba7cd799-751b-4408-8df6-09d47d23e155#SUd0fa83b1-d784-4b92-ba52-74c4611fff07)
 
 **Opettajat**
