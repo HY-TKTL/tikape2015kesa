@@ -63,4 +63,4 @@ Mikäli tietokannat kiinnostavat sinua, kannattaa tulevaisuudessa suunnata seura
 
 * [Web-palvelinohjelmointi](http://www.cs.helsinki.fi/courses/582353/2015/v/k/1)
 * [Aineopintojen harjoitustyö: Tietokantasovellus](http://www.cs.helsinki.fi/courses/582203/2015/v/a/2)
-* [Web-palvelinohjelmointi — Ruby on Rails](http://www.cs.helsinki.fi/courses/582368/2016/k/k/1)
+* [Web-palvelinohjelmointi Ruby on Rails](http://www.cs.helsinki.fi/courses/582368/2016/k/k/1)
