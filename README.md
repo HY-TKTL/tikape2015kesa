@@ -1,6 +1,6 @@
 # Tietokantojen perusteet (kesä 2015)
 
-Avoin yliopisto — A581328 (5 op)
+Avoin yliopisto — A581328 (5 op)  
 [Opetusohjelma](http://www.avoinyliopisto.fi/fi-FI/Opetustarjonta/StudyUnit.aspx?StyleSuffix=UrlQuery&StudyUnitId=ba7cd799-751b-4408-8df6-09d47d23e155#SUd0fa83b1-d784-4b92-ba52-74c4611fff07)
 
 **Opettajat**
@@ -27,13 +27,10 @@ Avoin yliopisto — A581328 (5 op)
 
 Aloitusluento on maanantaina 18.5. klo 16–18, D122. Kurssilla ei ole muita luentoja aloitusluennon lisäksi. Opiskelu pohjautuu itsenäiseen opiskeluun verkkoympäristössä sekä kahteen viikottaiseen harjoitustilaisuuteen.
 
-## Harjoitukset (tiistaisin)
+## Harjoitukset (tiistaisin B119)
 
 Tehtävät on tarkoitus ratkaista ennen tilaisuutta. Harjoituksissa tehtäviä pohditaan ryhmissä ja lopuksi ryhmät esittävät ratkaisujaan.
 
-B222, Heikki Haapala
-C222, Kasper Hirvikoski
-
-## Suunnitteluharjoitukset (torstaisin)
+## Suunnitteluharjoitukset (torstaisin B119)
 
 Suunnitteluharjoituksissa tehdään tietokantasuunnitelmaa ryhmissä pala kerrallaan viikon teeman mukaan. Ryhmät myös esittelevät tuotoksiaan. Jokainen palauttaa kurssin lopuksi itsenäisesti tietokantasuunnitelman joka pohjautuu ryhmän tuotoksiin. Suunnitteluharjoituksissa on hyvä olla tietokoneet mukana, mikäli se on mahdollista.
