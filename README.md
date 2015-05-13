@@ -34,3 +34,7 @@ Tehtävät on tarkoitus ratkaista ennen tilaisuutta. Harjoituksissa tehtäviä p
 ## Suunnitteluharjoitukset (torstaisin B119)
 
 Suunnitteluharjoituksissa tehdään tietokantasuunnitelmaa ryhmissä pala kerrallaan viikon teeman mukaan. Ryhmät myös esittelevät tuotoksiaan. Jokainen palauttaa kurssin lopuksi itsenäisesti tietokantasuunnitelman joka pohjautuu ryhmän tuotoksiin. Suunnitteluharjoituksissa on hyvä olla tietokoneet mukana, mikäli se on mahdollista.
+
+## Koe
+
+**Kokeisiin täytyy ilmoittautua 10 vrk ennen tenttipäivää** Avoimeen yliopistoon. Varmista myös koeaika ja -paikka Avoimen yliopiston sivuilta.
