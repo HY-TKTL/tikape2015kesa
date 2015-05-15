@@ -18,6 +18,7 @@ Avoin yliopisto — A581328 (5 op)
 
 ## Sisältö
 
+- [Materiaali ja harjoitukset](materiaali-ja-harjoitukset.md)
 
 ## Yleistä
 
